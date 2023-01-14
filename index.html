@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./assets/STYLE/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <title>MP3-Player</title>
+</head>
+<body>
+    <div class="container">
+    <img src="./assets/img/portais.jpg">
+    <div class="descricao">
+        <h2>Portals</h2>
+        <i>SHEETSSYNTHESIA</i>
+    </div>
+    <div class="duracao">
+        <div class="barra">
+             <progress value="0" max="1"></progress>
+             <div class="ponto"></div>
+        </div>
+        <div class="tempo">
+            <p class="inicio">00:00</p>
+            <p class="fim">03.22</p>
+        </div>
+    </div>
+    <div class="buttons">
+        <button id="setas"><i class="fa-solid fa-backward-fast anterior"></i></button>
+        <button id="botao-play"><i class="fa-sharp fa-solid fa-circle-play"></i></button>
+        <button id="botao-pause"><i class="fa-sharp fa-solid fa-circle-pause"></i></button>
+        <button id="setas"><i class="fa-solid fa-forward-fast posterior"></i></button>
+    </div>
+</div>
+    <audio src="./assets/MUSIC/Avengers Endgame - Portals (Piano)  SHEETSSYNTHESIA.mp3"></audio>
+</body>
+<script src="./assets/SCRIPT/script.js"></script>
+</html>

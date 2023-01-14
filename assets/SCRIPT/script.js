@@ -1,11 +1,11 @@
 let musicas = [
-    {titulo: 'Portals', artista: 'SHEETSSYNTHESIA', src: '/assets/MUSIC/Avengers Endgame - Portals (Piano)  SHEETSSYNTHESIA.mp3', img: 'assets/img/portais.jpg'},
-    {titulo: 'Interstellar', artista: 'Hans Zimmer', src: '/assets/MUSIC/Hans Zimmer - Interstellar - Main Theme (Piano Version)  Sheet Music.mp3', img: 'assets/img/interstellar.jpg'},
-    {titulo: 'Inception', artista: 'Hans Zimmer', src: '/assets/MUSIC/Inception - Time (Piano Version) [Remake].mp3', img: 'assets/img/miguel-dominguez-5yDL5rOKrUM-unsplash.jpg'},
-    {titulo: 'Avengers Endgame', artista: 'Movie Hype', src: '/assets/MUSIC/The Avengers - Main Theme (Piano Version).mp3', img: 'assets/img/avengers.jpg'},
-    {titulo: 'Arrival To Earth', artista: 'Brandon K. Verrett', src: '/assets/MUSIC/Transformers - Arrival To Earth (Piano Version).mp3', img: 'assets/img/transformes.jpg'},
-    {titulo: 'Heathens', artista: 'Pianella Piano', src: '/assets/MUSIC/twenty one pilots - Heathens (Suicide Squad Soundtrack)  Piano Cover by Pianella Piano.mp3', img: 'assets/img/onepilots.jpg'},
-    {titulo: 'Two Steps From Hell', artista: 'Victory', src: '/assets/MUSIC/Two Steps From Hell - Victory (Piano Version).mp3', img: 'assets/img/miguel-dominguez-5yDL5rOKrUM-unsplash.jpg'},
+    {titulo: 'Portals', artista: 'SHEETSSYNTHESIA', src: './assets/MUSIC/Avengers Endgame - Portals (Piano)  SHEETSSYNTHESIA.mp3', img: './assets/img/portais.jpg'},
+    {titulo: 'Interstellar', artista: 'Hans Zimmer', src: './assets/MUSIC/Hans Zimmer - Interstellar - Main Theme (Piano Version)  Sheet Music.mp3', img: './assets/img/interstellar.jpg'},
+    {titulo: 'Inception', artista: 'Hans Zimmer', src: './assets/MUSIC/Inception - Time (Piano Version) [Remake].mp3', img: './assets/img/miguel-dominguez-5yDL5rOKrUM-unsplash.jpg'},
+    {titulo: 'Avengers Endgame', artista: 'Movie Hype', src: './assets/MUSIC/The Avengers - Main Theme (Piano Version).mp3', img: './assets/img/avengers.jpg'},
+    {titulo: 'Arrival To Earth', artista: 'Brandon K. Verrett', src: './assets/MUSIC/Transformers - Arrival To Earth (Piano Version).mp3', img: './assets/img/transformes.jpg'},
+    {titulo: 'Heathens', artista: 'Pianella Piano', src: './assets/MUSIC/twenty one pilots - Heathens (Suicide Squad Soundtrack)  Piano Cover by Pianella Piano.mp3', img: './assets/img/onepilots.jpg'},
+    {titulo: 'Two Steps From Hell', artista: 'Victory', src: './assets/MUSIC/Two Steps From Hell - Victory (Piano Version).mp3', img: './assets/img/miguel-dominguez-5yDL5rOKrUM-unsplash.jpg'},
 ]
 
 
